@@ -1,1 +1,5 @@
-# hcds-summer-2024
+# Human-Centered Data Science — Summer Term 2024
+This repository contains all student group projects from the [2024 HCDS course at the Freie Universität Berlin](https://www.mi.fu-berlin.de/en/inf/groups/hcc/teaching/summer_term_2024/course_human_centered_data_science.html).
+
+## Project Description
+This summer, students in the “Human-Centered Data Science” course at Freie Universität Berlin tackled an exciting project aimed at making AI more accessible and useful for everyone. Working in small groups, they created an interactive explanation interface designed to help people understand and make informed decisions based on explainable AI. Throughout the project, students analyzed a dataset, designed visualizations, and built an easy-to-use interface to answer important questions for their target audience. Their goal was to combine data science with human-centered design to uncover meaningful insights that can impact real-world decisions.

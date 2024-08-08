@@ -1,0 +1,13 @@
+streamlit
+scikit-learn
+plotly
+matplotlib
+pandas
+numpy
+imblearn
+xgboost
+catboost
+seaborn
+shap
+dalex
+

@@ -1,0 +1,9 @@
+dalex==1.7.0
+matplotlib==3.8.0
+numpy==1.26.4
+pandas==2.2.2
+scikit_learn==1.5.1
+seaborn==0.13.2
+streamlit==1.36.0
+shap~=0.46.0
+explainerdashboard~=0.4.7
